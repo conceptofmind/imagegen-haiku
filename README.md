@@ -1,1 +1,1 @@
-# imagegen-haiku
+# imagegen-haiku (WIP)
